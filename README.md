@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Baosen (Bob) Zhang, a 4th year PhD student. 
+- 🔭 I’m currently working on electro-analysis, machine learning, redox flow battery. 
+- 🌱 My goal is to combine electro-analysis or redox flow battery with computer science, like data science and machine learning. 
 
 <!--
 **BaosenZ/BaosenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
