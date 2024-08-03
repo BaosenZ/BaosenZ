@@ -3,13 +3,12 @@
 <a href="https://sheltered-beach-83095.herokuapp.com/"><img src="https://raw.githubusercontent.com/MrainW/uPic_imageHosting/main/uPic/20220405/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 <a href="mailto:BaosenZhang.Bob.Job@gmail.com"><img src="https://raw.githubusercontent.com/MrainW/uPic_imageHosting/main/uPic/20220405/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 
-My name is Baosen (Bob) Zhang. I'm an electrochemistry PhD student and also pursue a computer science master degree. I am currently working on battery material discovery and performance optimization, electroanalytical techniques fundamental and simulation, analytical chemistry combination with machine learning. I hope I could incorporate all techniques and domains that I know to solve more real problems. 
-For my projects details, please look at [my personal website](https://sheltered-beach-83095.herokuapp.com/)!
-<br />
+My name is Baosen (Bob) Zhang. I am currently a Postdoctoral Research Scientist at Fordham University in New York City. I am currently working on chemistry problems using computer science knowledge, such as databases, data analysis, and machine learning. I have an electrochemical PhD, and I also have two Master's degrees in computer science and polymer engineering. I am passionate about educating and sharing! <br>
+<be>
 
-### Contact Me
-- 📫 How to reach me: BaosenZhang.Bob.Job@gmail.com | [LinkedIn](https://www.linkedin.com/in/baosen-zhang-b46378155/) | [Personal Website](https://sheltered-beach-83095.herokuapp.com/)
-- ⚡ Hire Me: BaosenZhang.Bob.Job@gmail.com👨‍💻.
+### More about me
+- ⚡ [LinkedIn](https://www.linkedin.com/in/baosen-zhang-b46378155/) | [Personal Website](https://sheltered-beach-83095.herokuapp.com/) | [My MicroBlog](https://microblog-baosen.blogspot.com/) | [Google Scholar](https://scholar.google.com/citations?user=X8DGaEkAAAAJ&hl=en)
+- 📫 Contact Me: BaosenZhang.Bob.Job@gmail.com👨‍💻
 
 <!--
 **BaosenZ/BaosenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
